@@ -5,18 +5,17 @@ To develop an interactive Booking & Revenue Analytics Dashboard in Power BI, ena
 
 ## Features:
 * Monthly & Daily Revenue Trends
-<br>
+
 * Booking Type Distribution
-<br>
+
 * Revenue Breakdown by Booking Type & Status
-<br>
+
 * Time Slot Revenue Analysis
-<br>
+
 * Facility Utilization
-<br>
+
 * Price Sensitivity Analysis
-<br>
-<br>
+
 
 ## Tools Used:
 Power BI, DAX.
