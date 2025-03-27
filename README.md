@@ -4,7 +4,6 @@
 To develop an interactive Booking & Revenue Analytics Dashboard in Power BI, enabling data-driven decision-making by analyzing booking trends, revenue performance, and customer behavior. The dashboard provides insights into booking distribution, facility utilization, price sensitivity, and revenue trends to optimize business performance. 🚀
 
 ## Features:
-
 * Monthly & Daily Revenue Trends
 <br>
 * Booking Type Distribution
